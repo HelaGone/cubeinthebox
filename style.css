@@ -1,0 +1,11 @@
+html, body{width:100%;height:100%;}
+body{background-color: #000a12;font-family: sans-serif;}
+h1, h2, h3, h4, h5, h6, ul, li, ol, span{margin:0;padding:0;}
+a{color:#ddd;text-decoration: none;}
+a:hover{color:#efefef;}
+#main_container{padding:72px;}
+.title_container{width:100%;}
+.title_container h1{text-align: center;color: #efefef;font-size: 48px; font-weight: bold;}
+.title_container h1 span{font-size: 44px;font-weight: lighter;}
+.list_container{list-style: none;}
+.php_container{color:#efefef;}
