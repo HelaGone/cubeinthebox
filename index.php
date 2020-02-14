@@ -32,7 +32,7 @@
         <div class="link_container">
           <ul class="list_container">
             <li class="list_item">
-              <a href="./tools">Tools</a>
+              <!-- <a href="./tools">Tools</a> -->
             </li>
           </ul>
         </div>
