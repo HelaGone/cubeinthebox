@@ -22,19 +22,13 @@
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#efefef">
     <script src="./js/index.js"></script>
+    
   </head>
   <body>
     <main id="main_container">
       <section id="main_wrapper">
         <div class="title_container">
           <h1>CUBE<span>INTHE</span>BOX</h1>
-        </div>
-        <div class="link_container">
-          <ul class="list_container">
-            <li class="list_item">
-              <!-- <a href="./tools">Tools</a> -->
-            </li>
-          </ul>
         </div>
       </section>
     </main>
