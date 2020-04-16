@@ -5,7 +5,7 @@
  "display": "standalone",
  "theme_color": "#efefef",
  "scope": "/",
- "start_url": "/?source=pwa",
+ "start_url": "/?utm_source=cubeinthebox&utm_medium=pwa&utm_campaign=progressive-web-app",
  "icons": [
   {
    "src": ".\/assets\/android-icon-36x36.png",
